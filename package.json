@@ -1,0 +1,23 @@
+{
+  "name": "icaps",
+  "version": "1.0.0",
+  "description": "Information Collection and Planning Syncronization",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test_icaps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spudtracktoad/ICaPs.git"
+  },
+  "author": "Jared Smith, Tudor Garbulet, Steven Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spudtracktoad/ICaPs/issues"
+  },
+  "homepage": "https://github.com/spudtracktoad/ICaPs#readme",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
